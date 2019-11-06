@@ -1,0 +1,16 @@
+body{
+    margin:auto;
+    font: 80%;
+    width: 1460px;
+    height: 868px;
+    max-width: 1269px;
+    min-width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.box{
+    padding: 1px;
+
+}
